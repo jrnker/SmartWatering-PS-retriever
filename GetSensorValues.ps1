@@ -7,7 +7,7 @@ Moisture sensor: https://www.tindie.com/products/miceuz/i2c-soil-moisture-sensor
 Code for particle: https://github.com/yerpj/SmartWatering
 .NOTES  
 File Name  : GetSensorValues.ps1  
-Author     : Christoffer Järnåker  
+Author     : Christoffer Järnåker, Proxmea
 License    : Licensed under the MIT license: http://www.opensource.org/licenses/mit-license.php 
 Requires   : PowerShell V3   
 #>
